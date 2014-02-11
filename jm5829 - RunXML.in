@@ -1,0 +1,505 @@
+<emu>
+	<mez>
+		<mer></mer>
+	</mez>
+	<mac>
+		<mez>
+			<mer></mer>
+		</mez>
+	</mac>
+</emu>
+<mez><mer></mer></mez>
+
+<emu>
+	<mez>
+		<mer>
+			<lev></lev>
+		</mer>
+	</mez>
+	<sui>
+		<mez>
+			<mer></mer>
+		</mez>
+	</sui>
+	<mac>
+		<mez>
+			<mer>
+				<lev></lev>
+			</mer>
+		</mez>
+	</mac>
+	<ess>
+		<mez><mez>
+	</ess>
+	<ops></ops>
+</emu>
+<mez><mer><lev></lev></mer></mez>
+
+<yen>
+	<fie>
+		<skr>
+			<rwd>
+				<kat>
+					<fmn>
+						<prb>
+							<lee>
+								<kos></kos>
+							</lee>
+						</prb>
+						<nuj>
+							<lee>
+								<kos>
+									<inc></inc>
+								</kos>
+							</lee>
+						</nuj>
+						<skt>
+							<kos>
+								<lee></lee>
+							</kos>
+						</skt>
+						<viz>
+							<lee></lee>
+						</viz>
+						<lee>
+							<kos></kos>
+						</lee>
+						<lee></lee>
+						<kos></kos>
+					</fmn>
+				</kat>
+			</rwd>
+			<lee>
+				<kos></kos>
+			</lee>
+		</skr>
+	</fie>
+	<kos></kos>
+	<lee></lee>
+</yen>
+<lee><kos></kos></lee>
+
+<yen>
+	<fie>
+		<skr>
+			<rwd>
+				<kat>
+					<fmn>
+						<prb>
+							<lee>
+							</lee>
+						</prb>
+						<nuj>
+							<lee>
+								<inc>
+									<kos></kos>
+								</inc>
+							</lee>
+						</nuj>
+						<skt>
+							<kos>
+								<lee></lee>
+							</kos>
+						</skt>
+						<viz>
+							<lee></lee>
+						</viz>
+						<lee>
+							<ram></ram>
+						</lee>
+						<lee></lee>
+						<kos></kos>
+					</fmn>
+				</kat>
+			</rwd>
+			<lee>
+				<kel></kel>
+			</lee>
+		</skr>
+	</fie>
+	<kos></kos>
+	<lee></lee>
+</yen>
+<lee><kos></kos></lee>
+
+<moi>
+	<rat>
+		<obl></obl>
+	<fug></fug>
+	<jer></jer>
+	</rat>
+	<rpc>
+		<obl></obl>
+		<csm>
+			<obl>
+				<wig></wig>
+			</obl>
+		</csm>
+	</rpc>
+	<vlf>
+		<esu>
+			<obl></obl>
+		</esu>
+	</vlf>
+	<bim>
+		<ttl>
+			<imp>
+				<ila>
+					<obl>
+						<ake>
+							<tom>
+								<bet>
+									<cod></cod>
+								</bet>
+							<obl>
+								<pun>
+									<ofm></ofm>
+								</pun>
+							</obl>
+						</ake>
+					</obl>
+				</ila>
+			</imp>
+		</ttl>
+	</bim>
+</moi>
+<obl></obl>
+
+<moi>
+	<rat></rat>	
+	<fug></fug>
+	<jer></jer>
+	<rpc>
+		<csm>
+			<wig></wig>
+		</csm>
+	</rpc>
+	<vlf>
+		<esu>
+		</esu>
+	</vlf>
+	<bim>
+		<ttl>
+			<imp>
+				<ila>
+					<ake>
+						<tom>
+							<bet>
+								<cod></cod>
+							</bet>
+							<pun>
+								<ofm></ofm>
+							</pun>
+					</ake>
+				</ila>
+			</imp>
+		</ttl>
+	</bim>
+</moi>
+<obl></obl>
+
+<moi>
+	<rat>
+		<obl></obl>
+	<fug></fug>
+	<jer></jer>
+	</rat>
+	<rpc>
+		<obl></obl>
+		<csm>
+			<obl>
+				<wig></wig>
+			</obl>
+		</csm>
+	</rpc>
+	<vlf>
+		<esu>
+			<obl></obl>
+			<wig></wig>
+		</esu>
+	</vlf>
+	<bim>
+		<ttl>
+			<imp>
+				<wig></wig>
+				<obl></obl>
+				<ila>
+					<obl>
+						<ake>
+							<tom>
+								<bet>
+									<cod></cod>
+								</bet>
+							<obl>
+								<pun>
+									<ofm>
+										<wig></wig>
+									</ofm>
+								</pun>
+							</obl>
+							<wig>
+								<cdn></cdn>
+							</wig>
+						</ake>
+						<wig></wig>
+					</obl>
+				</ila>
+			</imp>
+		</ttl>
+		<wig>
+			<obl></obl>
+		</wig>
+	</bim>
+</moi>
+<obl><wig></wig></obl>
+
+<moi>
+	<rat>
+		<obl></obl>
+	<fug></fug>
+	<jer></jer>
+	</rat>
+	<rpc>
+		<obl></obl>
+		<csm>
+			<obl>
+			</obl>
+		</csm>
+	</rpc>
+	<vlf>
+		<esu>
+			<obl></obl>
+			<wig></wig>
+		</esu>
+	</vlf>
+	<bim>
+		<ttl>
+			<imp>
+				<wig></wig>
+				<obl></obl>
+				<ila>
+					<obl>
+						<ake>
+							<tom>
+								<bet>
+									<cod></cod>
+								</bet>
+							<obl>
+								<pun>
+									<ofm>
+										<wig></wig>
+									</ofm>
+								</pun>
+							</obl>
+							<wig>
+								<cdn></cdn>
+							</wig>
+						</ake>
+					</obl>
+				</ila>
+			</imp>
+		</ttl>
+		<wig>
+			<obl></obl>
+		</wig>
+	</bim>
+</moi>
+<obl><wig></wig></obl>
+
+<ram>
+	<sly>
+		<het>
+			<wax></wax>
+		</het>
+		<kel>
+			<csc>
+				<och>
+					<sax></sax>
+				</och>
+			</csc>
+		</kel>
+	</sly>
+	<per>
+		<nsb>
+			<het>
+				<wax>
+					<gpi></gpi>
+				</wax>
+			</het>
+			<kel>
+				<csc>
+					<pal></pal>
+					<och>
+						<sax></sax>
+					</och>
+				</csc>
+			</kel>
+		</nsb>
+	</per>
+</ram>
+<kel><csc><och><sax></sax></och></csc></kel>	
+
+<ram>
+	<sly>
+		<het>
+			<wax></wax>
+		</het>
+		<sax>
+			<och>
+				<csc>
+					<kel>
+						
+					</kel>
+				</csc>
+			</och>
+		</sax>
+	</sly>
+	<per>
+		<nsb>
+			<het>
+				<wax>
+					<gpi></gpi>
+				</wax>
+			</het>
+			<sax>
+				<och>
+					<pal></pal>
+					<csc>
+						<kel></kel>
+					</csc>
+				</och>
+			</sax>
+		</nsb>
+	</per>
+</ram>
+<kel><csc><och><sax></sax></och></csc></kel>
+
+<char>
+	<hang></hang>
+	<sook>
+		<seal></seal>
+		<pine>
+			<scow></scow>
+			<floy>
+				<land></land>
+				<friz>
+					<cist></cist>
+					<foil>
+						<mana></mana>
+						<coif>
+							<long></long>
+							<scop>
+								<lger></lger>
+								<onas>
+									<romp></romp>
+									<poil></poil>
+									<apsu></apsu>
+								</onas>
+								<sage></sage>
+							</scop>
+							<veto></veto>
+						</coif>
+						<jeff></jeff>
+					</foil>
+					<guru></guru>
+				</friz>
+				<card></card>
+			</floy>
+			<poem></poem>
+		</pine>
+		<debt></debt>
+	</sook>
+	<gide></gide>
+</char>
+<floy><friz><foil><coif><scop><onas><poil></poil></onas></scop></coif></foil></friz></floy>
+
+<char>
+	<hang></hang>
+	<sook>
+		<seal></seal>
+		<pine>
+			<scow></scow>
+			<floy>
+				<land></land>
+				<friz>
+					<cist></cist>
+					<foil>
+						<mana></mana>
+						<coif>
+							<long></long>
+							<scop>
+								<lger></lger>
+								<onas>
+									<romp></romp>
+									<poil></poil>
+									<apsu></apsu>
+								</onas>
+								<sage></sage>
+							</scop>
+							<veto></veto>
+						</coif>
+						<jeff></jeff>
+					</foil>
+					<guru></guru>
+				</friz>
+				<card></card>
+			</floy>
+			<poem></poem>
+		</pine>
+		<debt></debt>
+	</sook>
+	<gide></gide>
+</char>
+<scow><land><cist><mana><long><lger><romp></romp></lger></long></mana></cist></land></scow>
+
+<char>
+	<hang></hang>
+	<sook>
+		<seal></seal>
+		<pine>
+			<scow></scow>
+			<floy>
+				<land></land>
+				<friz>
+					<cist></cist>
+					<foil>
+						<mana></mana>
+						<coif>
+							<long></long>
+							<scop>
+								<lger></lger>
+								<onas>
+									<romp></romp>
+									<poil></poil>
+									<apsu></apsu>
+								</onas>
+								<sage></sage>
+							</scop>
+							<veto></veto>
+						</coif>
+						<jeff></jeff>
+					</foil>
+					<guru></guru>
+				</friz>
+				<card></card>
+			</floy>
+			<poem></poem>
+		</pine>
+		<debt></debt>
+	</sook>
+	<gide></gide>
+</char>
+<poem><card><guru><jeff><veto><sage><apsu></apsu></sage></veto></jeff></guru></card></poem>
+
+<CaPt>
+	<gLiB>
+		<fiJI>
+			<MIlt>
+				<SOUP>
+					<fuze></fuze>
+				</SOUP>
+			</MIlt>
+		</fiJI>
+	</gLiB>
+</CaPt>
+<cApT><GlIb><FIji><miLT><soup><FUZE></FUZE></soup></miLT></FIji></GlIb></cApT>
