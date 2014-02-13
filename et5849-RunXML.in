@@ -1,0 +1,1000 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU>
+<Team><Cooly></Cooly></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU><Team><Cooly></Cooly></Team>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><green></green></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><blue></blue></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><yellow></yellow></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><blue></blue></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><yellow></yellow></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><purple></purple></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><blue></blue><yellow></yellow></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><yellow></yellow><blue></blue></green>
+
+<jeLlY>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </math>
+</JeLLy>
+<math><soccer></soccer></math>
+
+<jeLlY>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </math>
+</JeLLy>
+<math></math>
+
+<jeLlY>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+            <gym>
+            </gym>
+        </soccer>
+    </math>
+</JeLLy>
+<math><gym></gym></math>
+
+<jeLlY>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+            <math>
+                <soccer>
+                </soccer>
+            </math>
+        <soccer>
+        </soccer>
+    </math>
+</JeLLy>
+<math><soccer></soccer></math>
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+        </giraffes>
+    </circus>
+</longhorn>
+<longhorn><circus><giraffes></giraffes></circus></longhorn>
+
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+        </giraffes>
+        <elephants>
+        </elephants>
+    </circus>
+</longhorn>
+<longhorn><circus><giraffes></giraffes><elephants></elephants></circus></longhorn>
+
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+            <math>
+            </math>
+            <math>
+            </math>
+        </giraffes>
+        <math>
+        </math>
+    </circus>
+    <math>
+        <math>
+        </math>
+    </math>
+</longhorn>
+<math></math>
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+        </giraffes>
+        <elephants>
+            <case>
+            </case>
+        </elephants>
+    </circus>
+</longhorn>
+<longhorn><circus><giraffes></giraffes><elephants></elephants><case></case></circus></longhorn>
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+            <case>
+            </case>
+        </giraffes>
+        <elephants>
+        </elephants>
+    </circus>
+</longhorn>
+<longhorn><circus><giraffes><case></case></giraffes><elephants></elephants></circus></longhorn>
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+                <math>
+                    <soccer>
+                    </soccer>
+                </math>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+        </giraffes>
+        <elephants>
+        </elephants>
+    </circus>
+</longhorn>
+<math><soccer></soccer></math>
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+                <math>
+                    <soccer>
+                    </soccer>
+                </math>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+        </giraffes>
+        <elephants>
+        </elephants>
+    </circus>
+</longhorn>
+<case></case>
+
+<lOnGHOrn>
+    <math>
+        <math>
+            <soccer>
+                <math>
+                    <soccer>
+                    </soccer>
+                </math>
+            </soccer>
+        </math>
+        <soccer>
+        </soccer>
+    </mAtH>
+    <circus>
+        <giraffes>
+        </giraffes>
+        <elephants>
+        </elephants>
+    </circus>
+</longhorn>
+<lOnGHOrn><math><math><soccer><math><soccer></soccer></math></soccer></math><soccer></soccer></mAtH><circus><giraffes></giraffes><elephants></elephants></circus></longhorn>
+
+<red>
+    <yellow>
+    </yellow>
+    <pink>
+        <green>
+        </green>
+        <purple>
+            <orange>
+                <blue>
+                </blue>
+            </orange>
+        </purple>
+    </pink>
+</red>
+<red><pink><green></green><purple><orange><blue></blue></orange></purple></pink></red>
+
+
+<red>
+    <yellow>
+    </yellow>
+    <pink>
+        <purple>
+             <blue>
+             </blue>
+        </purple>
+    </pink>
+</red>
+<red><pink><green></green><purple><orange><blue></blue></orange></purple></pink>
+</red>
+
+
+<red>
+    <yellow>
+        <purple>
+            <orange>
+                <purple>
+                    <orange>
+                        <blue>
+                        </blue>
+                    </orange>
+                </purple>
+                <blue>
+                    <purple>
+                        <orange>
+                            <blue>
+                            </blue>
+                        </orange>
+                    </purple>
+                </blue>
+            </orange>
+            <purple>
+                <orange>
+                   <blue>
+                   </blue>
+                </orange>
+            </purple>
+        </purple>
+    </yellow>
+    <pink>
+        <green>
+        </green>
+        <purple>
+            <orange>
+                <blue>
+                </blue>
+            </orange>
+        </purple>
+    </pink>
+</red>
+<purple><orange><blue></blue></orange></purple>
+
+<red>
+    <yellow>
+        <purple>
+            <orange>
+                <purple>
+                    <orange>
+                        <blue>
+                        </blue>
+                        <purple>
+                        </purple>
+                    </orange>
+                </purple>
+                <blue>
+                    <purple>
+                        <orange>
+                            <blue>
+                            </blue>
+                            <purple>
+                            </purple>
+                        </orange>
+                    </purple>
+                </blue>
+            </orange>
+            <purple>
+                <orange>
+                   <blue>
+                   </blue>
+                </orange>
+            </purple>
+        </purple>
+    </yellow>
+    <pink>
+        <green>
+        </green>
+        <purple>
+            <orange>
+                <blue>
+                </blue>
+                <purple>
+                </purple>
+            </orange>
+        </purple>
+    </pink>
+</red>
+<blue><purple></purple></blue>
+
+<red>
+    <yellow>
+        <purple>
+            <orange>
+                <purple>
+                    <orange>
+                        <blue>
+                        </blue>
+                        <purple>
+                        </purple>
+                    </orange>
+                </purple>
+                <blue>
+                    <purple>
+                        <orange>
+                            <blue>
+                            </blue>
+                            <purple>
+                            </purple>
+                        </orange>
+                    </purple>
+                </blue>
+            </orange>
+            <purple>
+                <orange>
+                   <blue>
+                   </blue>
+                </orange>
+            </purple>
+        </purple>
+    </yellow>
+    <pink>
+        <green>
+        </green>
+        <purple>
+            <orange>
+                <blue>
+                </blue>
+                <purple>
+                </purple>
+            </orange>
+        </purple>
+    </pink>
+</red>
+<purple><orange></orange></purple>
+
+<a>
+	<c>
+		<f>
+		</f>
+	</c>
+	<c>
+		<d>
+			<e>
+			</e>
+		</d>
+		<f>
+		</f>
+	</c>
+	<g>
+		<h>
+			<c>
+				<f>
+				</f>
+			</c>
+		</h>
+	</g>
+</a>
+<c><f></f></c>
+
+<hello>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+					<love>
+						<hate>
+						</hate>
+						<pride>
+						</pride>
+					</love>
+				</adios>
+			</name>	
+		</is>
+		<yes>
+		</yes>
+	</Robert>
+	<name>
+		<adios>
+			<love>
+				<hate>
+				</hate>
+			</love>
+		</adios>
+	</name>
+	<love>
+		<hate>
+		</hate>
+	</love>
+	<love>
+		<hate>
+		</hate>
+	</love>
+</hello>
+<love><hate></hate></love>
+
+<yen>
+	<fie>
+		<skr>
+			<fwd>
+				<volcano>
+					<fmn>
+						<prb>
+							<lee>
+								<kos></kos>
+							</lee>
+						</prb>
+						<nuj>
+							<lee>
+								<kos>
+									<inc></inc>
+								</kos>
+							</lee>
+						</nuj>
+						<skt>
+							<kos>
+								<lee></lee>
+							</kos>
+						</skt>
+						<viz>
+							<lee></lee>
+						</viz>
+						<lee>
+							<kos></kos>
+						</lee>
+						<lee></lee>
+						<kos></kos>
+						<slap></slap>
+						<baby></baby>
+					</fmn>
+				</volcano>
+			</fwd>
+			<lee>
+				<kos></kos>
+			</lee>
+		</skr>
+	</fie>
+	<kos></kos>
+	<lee></lee>
+</yen>
+<lee><kos></kos></lee>
+
+<team>
+	<red>
+		<redbeans>
+		</redbeans>
+	</red>
+	<blue>
+	</blue>
+</team>
+<team><red></red></team>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+</hello>
+<Robert><name><is></is></name></Robert>
+
+<okay>
+	<go>
+		<yes>
+			<no>
+			</no>
+		</yes>
+	</go>
+	<say>
+		<it>
+			<aint>
+				<so>
+				</so>
+				<okey>
+				</okey>
+				<cypher>
+				</cypher>
+			</aint>
+		</it>
+	</say>
+</okay>
+<say><it><aint><so></so></aint></it></say>
+
+<tag>
+	<on>
+		<more>
+			<okay>
+			</okay>
+			<this>
+			</this>
+			<takes>
+			</takes>
+			<so>
+			</so>
+			<long>
+			</long>
+		</more>
+	</on>
+</tag>
+<more><so></so></more>
+
+<red>
+	<orange>
+		<blue>
+			<suck>
+				<foo>
+					<jungle>
+						<breathe>
+							<random>
+							</random>
+						</breathe>
+					</jungle>
+				</foo>
+			</suck>
+			<wait>
+			</wait>
+			<a>
+				<second>
+					<roller>
+						<blade>
+						</blade>
+					</roller>
+				</second>
+			</a>
+		</blue>
+		<waves>
+		</waves>
+	</orange>
+</red>
+<suck><foo></foo></suck>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><name></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><name><yes></yes></name></Robert>
+
+<someday>
+	<i>
+		<will>
+			<be>
+				<king>
+					<woot>
+					</woot>
+					<sub>
+					</sub>
+					<never>
+					</never>
+					<back>
+					</back>
+					<down>
+					</down>
+					<that>
+					</that>
+					<movie>
+					</movie>
+					<was>
+					</was>
+					<greatness>
+					</greatness>
+				</king>
+			</be>
+		</will>
+	</i>
+</someday>
+<king><back></back></king>
+
+<yen>
+	<fie>
+		<skr>
+			<rwd>
+				<kat>
+					<fmn>
+						<prb>
+							<lee>
+							</lee>
+						</prb>
+						<nuj>
+							<lee>
+								<inc>
+									<kos></kos>
+								</inc>
+							</lee>
+						</nuj>
+						<skt>
+							<kos>
+								<lee></lee>
+							</kos>
+						</skt>
+						<viz>
+							<lee></lee>
+						</viz>
+						<lee>
+							<ram></ram>
+						</lee>
+						<lee></lee>
+						<kos></kos>
+					</fmn>
+				</kat>
+			</rwd>
+			<lee>
+				<kel></kel>
+			</lee>
+		</skr>
+	</fie>
+	<kos></kos>
+	<lee></lee>
+</yen>
+<lee><kos></kos></lee>
+
+<moi>
+	<rat>
+		<obl></obl>
+		<fug></fug>
+		<jer></jer>
+	</rat>
+	<rpc>
+		<obl></obl>
+		<csm>
+			<obl>
+				<wig></wig>
+			</obl>
+		</csm>
+	</rpc>
+	<vlf>
+		<esu>
+			<obl></obl>
+		</esu>
+	</vlf>
+	<bim>
+		<ttl>
+			<imp>
+				<ila>
+					<obl>
+						<ake>
+							<tom>
+								<bet>
+									<cod></cod>
+								</bet>
+								<obl>
+									<pun>
+										<ofm></ofm>
+									</pun>
+								</obl>
+							</tom>
+						</ake>
+					</obl>
+				</ila>
+			</imp>
+		</ttl>
+	</bim>
+</moi>
+<obl></obl>
+
+<every>
+	<body>
+		<clap>
+			<your>
+			</your>
+			<hands>
+				<lets>
+					<go>
+						<to>
+							<across>
+								<the>
+									<plains>
+									</plains>
+								</the>
+							</across>
+						</to>
+					</go>
+					<stop>
+					</stop>
+					<you>
+						<cant>
+							<stop>
+								<the>
+									<beat>
+									</beat>
+								</the>
+							</stop>
+						</cant>
+					</you>
+				</lets>
+			</hands>
+		</clap>
+	</body>
+</every>
+<hands><across></across></hands>
+
+<simon>
+	<didnt>
+	</didnt>
+	<okay>
+		<lets>
+			<flow>
+			</flow>
+			<master>
+				<suffice>
+				</suffice>
+			</master>
+		</lets>
+		<time>
+			<is>
+				<essence>
+				</essence>
+			</is>
+		</time>
+	</okay>
+</simon>
+<lets><flow></flow></lets>
+
+<never>
+	<ever>
+		<sometimes>
+			<candles>
+				<wicks>
+					<fire>
+					</fire>
+				</wicks>
+			</candles>
+		</sometimes>
+	</ever>
+	<fiery>
+	</fiery>
+	<won>
+		<one>
+			<wonton>
+				<soup>
+				</soup>
+				<beaut>
+				</beaut>
+			</wonton>
+		</one>
+	</won>
+</never>
+<one><wonton></wonton></one>
+
+<never>
+	<ever>
+		<sometimes>
+			<candles>
+				<wicks>
+					<fire>
+					</fire>
+					<water>
+					</water>
+					<ice>
+					</ice>
+				</wicks>
+			</candles>
+		</sometimes>
+		<you>
+		</you>
+		<lose>
+		</lose>
+		<sometimes>
+		</sometimes>
+		<youll>
+		</youll>
+		<win>
+		</win>
+	</ever>
+	<fiery>
+	</fiery>
+	<won>
+		<one>
+			<wonton>
+				<soup>
+				</soup>
+				<beaut>
+				</beaut>
+			</wonton>
+		</one>
+		<aristotle>
+		</aristotle>
+	</won>
+</never>
+<one><wonton></wonton></one>
+
+<the>
+	<end>
+		<im>
+			<almost>
+				<done>
+					<typing>
+						<these>
+							<yay>
+							</yay>
+						</these>
+					</typing>
+				</done>
+			</almost>
+		</im>
+	</end>
+</the>
+<end><im><almost><done></done></almost></im></end>
+
+<one>
+        <two>
+            <three>
+            </three>
+        </two>
+</one>
+<one><two></two></one>
