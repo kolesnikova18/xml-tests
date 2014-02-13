@@ -3,9 +3,7 @@
 
 """
 To test the program:
-    % python TestCollatz.py > TestCollatz.out
-    % chmod ugo+x TestCollatz.py
-    % TestCollatz.py > TestCollatz.out
+    % python TestXML.py > TestXML.out
 """
 
 # -------
@@ -49,46 +47,21 @@ class TestXML(unittest.TestCase):
     x = XML.read(sInput)
     self.assert_(x is False)
 
-
-  #idElements
-  def testidElements1(self):
-    elem = fromstring("<xml><tag2></tag2></xml>")
-    n = XML.idElements(elem)
-    self.assert_(elem[0].get("id") == 1)
-    self.assert_(n == 2)
-
-  def testidElements2(self):
-    elem = fromstring("<xml><tag2><tag3></tag3></tag2></xml>")
-    n = XML.idElements(elem)
-    self.assert_(elem[0].get("id") == 1)
-    self.assert_(elem[0][0].get("id") == 2)
-    self.assert_(n == 3)
-
-  def testidElements3(self):
-    elem = fromstring("<xml><tag2><tag3><tag4></tag4></tag3><tag5></tag5></tag2></xml>")
-    n = XML.idElements(elem)
-    self.assert_(elem[0].get("id") == 1)
-    self.assert_(elem[0][0].get("id") == 2)
-    self.assert_(elem[0][1].get("id") == 3)
-    self.assert_(elem[0][0][0].get("id") == 4)
-    self.assert_(n == 5)
-
-
   #search
   def testSearch1(self):
-    elem = fromstring("<tag2 id='1'><tag3 id='2'><tag4 id='4'></tag4></tag3><tag5 id='3'></tag5></tag2>")
+    elem = fromstring("<tag2 id='1'><tag3 id='2'><tag4 id='3'></tag4></tag3><tag5 id='4'></tag5></tag2>")
     searcher = fromstring("<tag3><tag4></tag4></tag3>")
     count, ids = XML.search(elem, searcher)
     self.assert_(count == 1)
-    self.assert_(ids == ['2'])
+    self.assert_(ids == [2])
     
 
   def testSearch2(self):
-    elem = fromstring("<tag2 id='1'><tag3 id='2'><tag4 id='4'></tag4></tag3><tag5 id='3'><tag4 id='5'></tag4></tag5></tag2>")
+    elem = fromstring("<tag2 id='1'><tag3 id='2'><tag4 id='3'></tag4></tag3><tag5 id='4'><tag4 id='5'></tag4></tag5></tag2>")
     searcher = fromstring("<tag4></tag4>")
     count, ids = XML.search(elem, searcher)
     self.assert_(count == 2)
-    self.assert_(ids == ['4', '5'])
+    self.assert_(ids == [3, 5])
 
   def testSearch3(self):
     elem = fromstring("<tag2 id='1'><tag3 id='2'><tag4 id='4'></tag4></tag3><tag5 id='3'><tag4 id='5'></tag4></tag5></tag2>")
