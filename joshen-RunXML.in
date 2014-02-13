@@ -1,0 +1,1061 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU>
+<Team>
+<ACRush>
+</ACRush>
+<Jelly>
+</Jelly><Cooly></Cooly>
+</Team><JiaJia>
+<Team>
+<Ahyangyi>
+</Ahyangyi>
+<Dragon>
+</Dragon>
+<Cooly><Amber>
+</Amber>
+</Cooly>
+</Team>
+</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><green></green></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><blue></blue></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><yellow></yellow><blue></blue></green>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly>
+				<Amber></Amber>
+			</Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly>
+				<Amber>
+					<Team>
+						<Ahyangyi></Ahyangyi>
+						<Dragon></Dragon>
+						<Cooly>
+							<Amber>
+								<Team>
+									<Ahyangyi></Ahyangyi>
+									<Dragon></Dragon>
+									<Cooly>
+										<Amber></Amber>
+									</Cooly>
+								</Team>
+							</Amber>
+						</Cooly>
+					</Team>
+				</Amber>
+			</Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team>
+
+<emu>
+	<mez>
+		<mer></mer>
+	</mez>
+	<mac>
+		<mez>
+			<mer></mer>
+		</mez>
+	</mac>
+</emu>
+<mez><mer></mer></mez>
+
+<yen>
+	<fie>
+		<skr>
+			<rwd>
+				<kat>
+					<fmn>
+						<prb>
+							<lee>
+								<kos></kos>
+							</lee>
+						</prb>
+						<nuj>
+							<lee>
+								<kos>
+									<inc></inc>
+								</kos>
+							</lee>
+						</nuj>
+						<skt>
+							<kos>
+								<lee></lee>
+							</kos>
+						</skt>
+						<viz>
+							<lee></lee>
+						</viz>
+						<lee>
+							<kos></kos>
+						</lee>
+						<lee></lee>
+						<kos></kos>
+					</fmn>
+				</kat>
+			</rwd>
+			<lee>
+				<kos></kos>
+			</lee>
+		</skr>
+	</fie>
+	<kos></kos>
+	<lee></lee>
+</yen>
+<lee><kos></kos></lee>
+
+<Animals>
+	<Dog>
+		<Cat>
+			<Fish>
+				<Elephant></Elephant>
+				<Tiger></Tiger>
+				<Dog>
+					<Lion></Lion>
+					<Goat></Goat>
+					<Cat></Cat>
+				</Dog>
+				<Mice>
+					<Monkey>
+						<Tiger></Tiger>
+						<Dog>
+							<Cat>
+								<Fish>
+								</Fish>
+							</Cat>
+						</Dog>
+					</Monkey>
+				</Mice>
+			</Fish>
+		</Cat>
+	</Dog>
+</Animals>
+<Dog><Cat><Fish></Fish></Cat></Dog>
+
+<People>
+    <Austin>
+        <Jacob></Jacob>
+        <Kyle></Kyle>
+        <Justice>
+            <Josh>
+                    <Austin>
+                            <Kyle>
+                                <Josh>
+                                        <Austin>
+                                                <Kyle></Kyle>
+                                                <Justin></Justin>
+                                        </Austin>
+                                        <Connor>
+                                                <Will></Will>
+                                        </Connor>
+                                        <Carl>
+                                                <James></James>
+                                        </Carl>
+                                </Josh> 
+                            </Kyle>
+                            <Justin></Justin>
+                    </Austin>
+                    <Connor>
+                            <Will>
+                                <Josh>
+                                        <Austin>
+                                                <Kyle></Kyle>
+                                                <Justin></Justin>
+                                        </Austin>
+                                        <Connor>
+                                                <Will></Will>
+                                        </Connor>
+                                        <Carl>
+                                                <James>
+                                                    <Joseph></Joseph>
+                                                    <Josh>
+                                                        <Austin>
+                                                                <Kyle></Kyle>
+                                                                <Justin></Justin>
+                                                        </Austin>
+                                                        <Connor>
+                                                                <Will></Will>
+                                                        </Connor>
+                                                        <Carl>
+                                                                <James></James>
+                                                        </Carl>
+                                                    </Josh> 
+                                                </James>
+                                        </Carl>
+                                        <Taylor>
+                                            <John>
+                                                <Peter>
+                                                    <Cain>
+                                                        <Abel>
+                                                            <Josh>
+                                                                <Austin>
+                                                                        <Kyle></Kyle>
+                                                                        <Justin></Justin>
+                                                                </Austin>
+                                                                <Connor>
+                                                                        <Will></Will>
+                                                                </Connor>
+                                                                <Carl>
+                                                                        <James></James>
+                                                                </Carl>
+                                                            </Josh> 
+                                                        </Abel>
+                                                    </Cain>
+                                                </Peter>
+                                            </John>
+                                        </Taylor>
+                                </Josh> 
+                            </Will>
+                    </Connor>
+                    <Carl>
+                            <James></James>
+                            <Josh>
+                                    <Austin>
+                                            <Kyle></Kyle>
+                                            <Justin></Justin>
+                                    </Austin>
+                                    <Connor>
+                                            <Will></Will>
+                                    </Connor>
+                                    <Carl>
+                                            <James></James>
+                                    </Carl>
+                            </Josh> 
+                    </Carl>
+            </Josh>
+        </Justice>
+    </Austin>
+</People>
+<Josh><Austin><Kyle></Kyle><Justin></Justin></Austin><Connor><Will></Will></Connor><Carl><James></James></Carl></Josh> 
+
+<Girls>
+    <Gertrude></Gertrude>
+    <Molly>
+        <Jessica></Jessica>
+            <Rachel>
+                <Tiffany></Tiffany>
+                <Victoria></Victoria>
+            </Rachel>
+        <Monica></Monica>
+    </Molly>
+    <Sarah>
+        <Tiffany>
+            <Sunny></Sunny>
+            <Christian>
+                <Nicole>
+                    <Andrea>
+                        <Rachel>
+                            <Monica>
+			    </Monica>
+                            <Monica>
+                                <Sarah>
+                                    <Audrey>
+                                        <Grace>
+                                            <Stephanie>
+                                            <Jess>
+					    </Jess>
+                                            <Ginny>
+                                                <Mertle>
+						</Mertle>
+                                            </Ginny>
+                                                <Kelly>
+                                                    <Regina>
+                                                        <Arlene>
+                                                            <Gertrude>
+                                                                <Jessica>
+                                                                    <Sunny>
+                                                                        <Leah>
+                                                                            <Rachel>
+                                                                                <Mary>
+										</Mary>
+                                                                            </Rachel>
+                                                                        </Leah>
+                                                                    </Sunny>
+                                                                </Jessica>
+                                                            </Gertrude>
+                                                        </Arlene>
+                                                    </Regina>
+                                                </Kelly>
+                                                <Sarah>
+                                                    <Audrey>
+                                                        <Grace>
+                                                            <Stephanie>
+                                                                <Kelly>
+                                                                    <Regina>
+                                                                        <Arlene>
+                                                                            <Gertrude>
+                                                                                <Jessica>
+                                                                                    <Sunny>
+                                                                                        <Leah>
+                                                                                            <Rachel>
+                                                                                                <Mary></Mary>
+                                                                                            </Rachel>
+                                                                                        </Leah>
+                                                                                    </Sunny>
+                                                                                </Jessica>
+                                                                            </Gertrude>
+                                                                        </Arlene>
+                                                                    </Regina>
+                                                                </Kelly>
+                                                                <Hermione>
+								</Hermione>
+                                                            </Stephanie>
+                                                        </Grace>
+                                                    </Audrey>
+                                                </Sarah>
+                                                <Destiny>
+						</Destiny>
+                                            </Stephanie>
+                                        </Grace>
+                                    </Audrey>
+                                    <Ariel>
+				    </Ariel>
+                                </Sarah>
+                            </Monica>
+                            <Tiffany>
+			    </Tiffany>
+                        </Rachel>
+                    </Andrea>
+                </Nicole>
+            </Christian>
+            <Gamatatsu>
+                <Sarah>
+                    <Audrey>
+                        <Grace>
+                            <Stephanie>
+                                <Kelly>
+                                    <Regina>
+                                        <Arlene>
+                                            <Gertrude>
+                                                <Jessica>
+                                                    <Sunny>
+                                                        <Leah>
+                                                            <Rachel>
+                                                                <Mary></Mary>
+                                                            </Rachel>
+                                                        </Leah>
+                                                    </Sunny>
+                                                </Jessica>
+                                            </Gertrude>
+                                        </Arlene>
+                                        <Jamie></Jamie>
+                                    </Regina>
+                                </Kelly>
+                                </Facebook></Facebook>
+                            </Stephanie>
+                        </Grace>
+                    </Audrey>
+                </Sarah>
+            </Gamatatsu>
+        </Tiffany>
+    </Sarah>
+    	<Jennifer>
+	</Jennifer>
+    <Grace>
+        <Grace>
+            <Barbie>
+	    </Barbie>
+        </Grace>
+    </Grace>
+</Girls>
+<Sarah><Audrey><Grace><Stephanie><Kelly><Regina><Arlene><Gertrude><Jessica><Sunny><Leah><Rachel><Mary></Mary></Rachel></Leah></Sunny></Jessica></Gertrude></Arlene></Regina></Kelly></Stephanie></Grace></Audrey></Sarah>
+
+<strangetree>
+  <level1>
+    <round1>
+    </round1>
+    <round2>
+    </round2>
+    <round3>
+<level2>
+<base1>
+<random>
+</random>
+</base1>
+</level2>
+    </round3>
+    <round4>
+    </round4>
+  </level1>
+  <level2>
+    <base1>
+    </base1>
+    <base2>
+    </base2>
+    <base3>
+<level2>
+<base1>
+<random>
+</random>
+</base1>
+</level2>
+    </base3>
+    <base4>
+    </base4>
+  </level2>
+  <level3>
+    <boom1>
+    </boom1>
+    <boom2>
+    </boom2>
+<level2>
+<base1>
+<random>
+</random>
+</base1>
+</level2>
+    <boom3>
+    </boom3>
+    <boom4>
+    </boom4>
+  </level3>
+  <level4>
+  </level4>
+</strangetree>
+<level2><base1><random></random></base1></level2>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<yes>
+	</yes>
+	<Robert>
+		<is>
+			<name>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><yes></yes><is></is></Robert>
+
+<I>
+    <Thought>
+        <This>
+            <Was>
+                <Really>
+                    <Hard>
+                    </Hard>
+                    <Hard>
+                        <Believe>
+                        </Believe>
+                    </Hard>
+                </Really>
+            </Was>
+        </This>
+        <Project>
+            <Darn>
+            </Darn>
+        </Project>
+    </Thought>
+</I>
+<Project><Darn></Darn></Project>
+
+<A>
+    <B>
+    </B>
+    <C>
+        <S>
+        </S>
+        <E>
+            <X>
+                <S>
+                    <H>
+                    </H>
+                    <E>
+                        <C>
+                            <S>
+                            </S>
+                            <E>
+                                <X>
+                                    <S>
+                                        <H>
+                                        </H>
+                                        <S>
+                                             <H>
+                                            </H>
+                                            <E>
+                                                <N>
+                                                
+                                                </N>
+                                            </E>
+                                        </S>
+                                        <E>
+                                        </E>
+                                    </S>
+                                    <Y>
+                                        <Z>
+                                        </Z>
+                                    </Y>
+                                </X>
+                            </E>
+                            <F>
+                            </F>
+                        </C>
+                    </E>
+                </S>
+                <Y>
+                    <Z>
+                    </Z>
+                </Y>
+            </X>
+        </E>
+        <F>
+        </F>
+    </C>
+    <M>
+    </M>
+    <L>
+        <G>
+        </G>
+    </L>
+    <D>
+        <G>
+        <S>
+            <H>
+                <I>
+                <L>
+                    <M>
+                        <N>
+                        <A>
+                            <T>
+                                <G>
+                                    <C>
+                                    <S>
+                                        <H></H>
+                                        <E>
+                                            <N>
+                                            <S>
+                                                <H>
+                                                </H>
+                                                <E>
+                                                    <N>
+                                                    </N>
+                                                </E>
+                                            </S>
+                                            </N>
+                                        </E>
+                                    </S>
+                                    </C>
+                                </G>
+                            </T>
+                        </A>
+                        </N>
+                    </M>
+                </L>
+                <S>
+                    <H>
+                    </H>
+                    <E>
+                        <N>
+                        </N>
+                    </E>
+                </S>
+                    <E>
+                        <N>
+                            <A>
+                            </A>
+                            <C>
+                            <X>
+                                <S>
+                                    <H>
+                                        <Q>
+                                        </Q>
+                                        <R>
+                                            <S>
+                                                <H>
+                                                    <T>
+                                                        <U>
+                                                        </U>
+                                                        <V>
+                                                        </V>
+                                                    </T>
+                                                </H>
+                                            </S>
+                                        </R>
+                                    </H>
+                                    <E>
+                                    </E>
+                                </S>
+                                <Y>
+                                    <Z>
+                                    <S>
+                                        <H>
+                                        </H>
+                                        <E>
+                                            <N>
+                                            </N>
+                                        </E>
+                                    </S>
+                                    </Z>
+                                </Y>
+                            </X>
+                            </C>
+                            <S>
+                                <H></H>
+                                <E>
+                                    <N>
+                                            <S>
+                                                <H>
+                                                    <T>
+                                                        <U>
+                                                        </U>
+                                                        <V>
+                                                        </V>
+                                                    </T>
+                                                </H>
+                                            </S>
+                                    </N>
+                                </E>
+                            </S>
+                            <D>
+                            </D>
+                        </N>
+                    </E>
+                    <A>
+                        <T>
+                            <G>
+                                <C>
+                                <S>
+                                    <H></H>
+                                    <E>
+                                        <N>
+                                            <T>
+                                                <Y>
+                                                    <H>
+                                                    <S>
+                                                        <H>
+                                                        </H>
+                                                        <E>
+                                                            <N>
+                                                            </N>
+                                                        </E>
+                                                    </S>
+                                                    </H>
+                                                    <S>
+                                                    </S>
+                                                </Y>
+                                            </T>
+                                        </N>
+                                        <U>
+                                        </U>
+                                    </E>
+                                </S>
+                                </C>
+                            </G>
+                        </T>
+                    </A>
+                </I>
+            </H>
+            <S>
+            </S>
+        </S>
+        <S>
+            <H>
+            </H>
+            <E>
+                <N>
+                </N>
+            </E>
+        </S>
+        </G>
+    </D>
+</A>
+<S><H></H><E><N></N></E></S>
+
+<Animals>
+	<Dog>
+		<Gorilla>
+		</Gorilla>
+		<Cat>
+			<Fish>
+			<Kyle>
+			</Kyle>
+			<Austin>
+			</Austin>
+			<Joe>
+				<Elephant>
+				</Elephant>
+			</Joe>
+				<Elephant>
+				</Elephant>
+				<Tiger>
+				</Tiger>
+				<Dog>
+					<Lion>
+					</Lion>
+					<Goat>
+					</Goat>
+					<Cat>
+					</Cat>
+				</Dog>
+				<Mice>
+					<Monkey>
+						<Tiger>
+						</Tiger>
+						<Dog>
+							<Cat>
+								<Fish>
+								</Fish>
+								<Josh>
+								</Josh>
+								<Kyle>
+								</Kyle>
+							</Cat>
+						</Dog>
+					</Monkey>
+				</Mice>
+			</Fish>
+			<Josh>
+			</Josh>
+		</Cat>
+	</Dog>
+</Animals>
+<Dog><Cat><Fish></Fish><Josh></Josh><Kyle></Kyle></Cat></Dog>
+
+<red>
+        <white>
+                <green>
+                </green>
+                <black>
+                        <purple>
+                                <black>
+                                </black>
+                        </purple>
+                        <green>
+                                <green>
+                                        <white>
+                                        </white>
+                                        <black>
+                                        </black>
+                                        <yellow>
+                                        </yellow>
+                                </green>
+                        </green>
+                        <black>
+                                <white>
+                                        <yellow>
+                                        </yellow>
+                                        <green>
+                                        </green>
+                                        <black>
+                                        </black>
+                                </white>
+                                <yellow>
+                                        <yellow>
+                                        </yellow>
+                                </yellow>
+                                <purple>
+                                </purple>
+                        </black>
+                </black>
+                <white>
+                        <green>
+                        </green>
+                </white>
+        </white>
+        <purple>
+                <purple>
+                        <blue>
+                                <white>
+                                </white>
+                                <yellow>
+                                </yellow>
+                                <green>
+                                </green>
+                        </blue>
+                        <green>
+                                <yellow>
+                                        <green>
+                                        </green>
+                                </yellow>
+                                <white>
+                                        <blue>
+                                        </blue>
+                                </white>
+                                <green>
+                                        <green>
+                                        </green>
+                                </green>
+                        </green>
+                        <yellow>
+                                <white>
+                                </white>
+                        </yellow>
+                </purple>
+                <white>
+                        <green>
+                                <black>
+                                        <black>
+                                        </black>
+                                        <blue>
+                                        </blue>
+                                        <purple>
+                                        </purple>
+                                </black>
+                                <blue>
+                                        <blue>
+                                        </blue>
+                                        <black>
+                                        </black>
+                                        <yellow>
+                                        </yellow>
+                                </blue>
+                                <green>
+                                        <yellow>
+                                        </yellow>
+                                        <blue>
+                                        </blue>
+                                </green>
+                        </green>
+                        <black>
+                                <black>
+                                </black>
+                        </black>
+                        <blue>
+                                <purple>
+                                        <black>
+                                        </black>
+                                </purple>
+                        </blue>
+                </white>
+        </purple>
+</red>
+<black><black></black><purple></purple></black>
+
+<adds>
+    <alma>
+        <agon>
+        </agon>
+        <aahs>
+            <aahs>
+                <aals>
+                    <airy>
+                    </airy>
+                    <able>
+                    </able>
+                </aals>
+                <abet>
+                    <agha>
+                    </agha>
+                    <alec>
+                        <achy>
+                            <aeon>
+                                <abed>
+                                    <abbe>
+                                    </abbe>
+                                </abed>
+                            </aeon>
+                        </achy>
+                    </alec>
+                </abet>
+                <aces>
+                    <alif>
+                    </alif>
+                    <acts>
+                    </acts>
+                    <acre>
+                    </acre>
+                    <ajee>
+                    </ajee>
+                </aces>
+            </aahs>
+        </aahs>
+        <airy>
+        </airy>
+        <akee>
+        </akee>
+    </alma>
+    <alan>
+    </alan>
+    <ahoy>
+        <alow>
+            <aahs>
+                <aahs>
+                    <aals>
+                        <airy>
+                            <acme>
+                                <acid>
+                                    <acta>
+                                        <adit>
+                                            <agly>
+                                                <aahs>
+                                                    <aals>
+                                                        <airy>
+                                                        </airy>
+                                                        <able>
+                                                            <aahs>
+                                                            </aahs>
+                                                        </able>
+                                                    </aals>
+                                                    <abet>
+                                                        <agha>
+                                                        </agha>
+                                                        <alec>
+                                                        </alec>
+                                                    </abet>
+                                                    <aces>
+                                                        <alif>
+                                                            <ails>
+                                                            </ails>
+                                                        </alif>
+                                                        <ajee>
+                                                        </ajee>
+                                                    </aces>
+                                                </aahs>
+                                            </agly>
+                                        </adit>
+                                    </acta>
+                                </acid>
+                            </acme>
+                        </airy>
+                        <able>
+                        </able>
+                    </aals>
+                    <abet>
+                        <agha>
+                        </agha>
+                        <abut>
+                        </abut>
+                        <alec>
+                        </alec>
+                    </abet>
+                    <aces>
+                        <alif>
+                        </alif>
+                        <ajee>
+                        </ajee>
+                    </aces>
+                </aahs>
+                <aals>
+                    <airy>
+                    </airy>
+                    <aery>
+                    </aery>
+                </aals>
+                <abet>
+                    <agha>
+                    </agha>
+                    <aged>
+                        <aahs>
+                        </aahs>
+                    </aged>
+                    <alec>
+                    </alec>
+                </abet>
+                <aces>
+                    <alif>
+                    </alif>
+                    <ajee>
+                    </ajee>
+                </aces>
+            </aahs>
+        </alow>
+        <alif>
+        </alif>
+    </ahoy>
+    <ahed>
+    </ahed>
+    <able>
+        <ages>
+        </ages>
+        <akin>
+        </akin>
+    </able>
+    <aahs>
+    </aahs>
+    <alps>
+        <agog>
+        </agog>
+    </alps>
+</adds>
+<aahs><aals><airy></airy><able></able></aals><abet><agha></agha><alec></alec></abet><aces><alif></alif><ajee></ajee></aces></aahs>
+
+
