@@ -1,0 +1,1011 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU>
+<Team><Cooly></Cooly></Team>
+
+<THU>
+<Team>
+<ACRush>
+</ACRush>
+<Jelly>
+</Jelly>
+<Cooly>
+</Cooly>
+</Team>
+<JiaJia>
+<Team>
+<Ahyangyi>
+</Ahyangyi>
+<Dragon>
+</Dragon>
+<Cooly>
+<Amber>
+</Amber>
+</Cooly>
+</Team>
+</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><green></green></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><blue></blue></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<red><yellow></yellow></red>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><blue></blue></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><yellow></yellow></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><purple></purple></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><blue></blue><yellow></yellow></green>
+
+<red>
+    <green>
+        <blue></blue>
+        <yellow></yellow>
+    </green>
+</red>
+<green><yellow></yellow><blue></blue></green>
+
+<a><b><c></c><d></d></b></a>
+<b><d></d></b>
+
+<a>
+<c>
+<f>
+</f>
+</c>
+<c>
+<d>
+<e>
+</e>
+</d>
+<f>
+</f>
+</c>
+<g>
+<h>
+<c>
+<f>
+</f>
+</c>
+</h>
+</g>
+</a>
+<c><f></f></c>
+
+<a>
+<b>
+</b>
+<c>
+<d>
+</d>
+</c>
+<d>
+</d>
+<e>
+</e>
+</a>
+<c><d></d></c>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+</hello>
+<Robert><name></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+</hello>
+<Robert><is></is></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+</hello>
+<name><Robert></Robert></name>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<name>
+	</name>
+</hello>
+<Robert><name></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+</hello>
+<Robert><name><is></is></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<is>
+			</is>
+		</name>
+	</Robert>
+</hello>
+<Robert><name><is></is></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><name></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><name></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><name><yes></yes></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+</hello>
+<Robert><name><yes></yes></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<yes>
+	</yes>
+	<Robert>
+		<name>
+		</name>
+		<yes>
+		</yes>
+	</Robert>
+</hello>
+<Robert><name><yes></yes></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<yes>
+	</yes>
+	<Robert>
+		<is>
+			<name>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><name></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<yes>
+	</yes>
+	<Robert>
+		<is>
+			<name>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><yes></yes><is></is></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+		<yes>
+		</yes>
+		<is>
+			<name>
+			</name>
+		</is>
+	</Robert>
+	<yes>
+	</yes>
+	<Robert>
+		<is>
+			<name>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><yes></yes><is></is></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+		<yes>
+		</yes>
+		<is>
+			<name>
+			</name>
+		</is>
+	</Robert>
+	<yes>
+	</yes>
+	<Robert>
+		<is>
+			<name>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<name>
+		</name>
+	</Robert>
+</hello>
+<Robert><yes></yes><is></is><name></name></Robert>
+
+<hello>
+	<Robert>
+		<name>
+			<is>
+				<Robert>
+					<name>
+					</name>
+				</Robert>
+			</is>
+			<yes>
+			</yes>
+		</name>
+	</Robert>
+	<Robert>
+		<name>
+			<yes>
+			</yes>
+		</name>
+		<yes>
+		</yes>
+		<is>
+			<name>
+			</name>
+		</is>
+	</Robert>
+	<yes>
+	</yes>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<name>
+			<is>
+			</is>
+		</name>
+	</Robert>
+</hello>
+<name><goodbye></goodbye><adios></adios></name>
+
+<hello>
+	<Robert>
+		<name>
+			<yes>
+				<adios>
+				</adios>
+			</yes>
+		</name>
+		<yes>
+		</yes>
+		<is>
+			<name>
+			</name>
+		</is>
+	</Robert>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<name>
+			<is>
+			</is>
+		</name>
+	</Robert>
+</hello>
+<name><goodbye></goodbye><adios></adios></name>
+
+<hello>
+	<Robert>
+		<name>
+			<yes>
+				<adios>
+				</adios>
+			</yes>
+		</name>
+		<yes>
+		</yes>
+		<is>
+			<name>
+			</name>
+		</is>
+	</Robert>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+		<love>
+			<are>
+			</are>
+		</love>
+	</Robert>
+</hello>
+<name><adios></adios></name>
+
+<hello>
+	<Robert>
+		<name>
+			<yes>
+				<adios>
+				</adios>
+			</yes>
+		</name>
+		<yes>
+		</yes>
+		<is>
+			<name>
+			</name>
+		</is>
+	</Robert>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+					<love>
+						<hate>
+						</hate>
+					</love>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+	</Robert>
+	<name>
+		<adios>
+			<love>
+				<hate>
+				</hate>
+			</love>
+		</adios>
+	</name>
+</hello>
+<name><adios><love><hate></hate></love></adios></name>
+
+<hello>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+					<love>
+						<hate>
+						</hate>
+						<anger>
+						</anger>
+						<pride>
+						</pride>
+					</love>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+	</Robert>
+	<name>
+		<adios>
+			<love>
+				<hate>
+				</hate>
+				<pride>
+				</pride>
+			</love>
+		</adios>
+	</name>
+</hello>
+<name><adios><love><hate></hate><pride></pride></love></adios></name>
+
+<hello>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+					<love>
+						<hate>
+						</hate>
+						<anger>
+						</anger>
+						<pride>
+						</pride>
+					</love>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+	</Robert>
+	<name>
+		<adios>
+			<love>
+				<hate>
+				</hate>
+				<pride>
+				</pride>
+			</love>
+		</adios>
+	</name>
+	<love>
+		<hate>
+		</hate>
+	</love>
+</hello>
+<love><hate></hate></love>
+
+<hello>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+					<love>
+						<hate>
+						</hate>
+						<anger>
+						</anger>
+						<pride>
+						</pride>
+					</love>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+	</Robert>
+	<name>
+		<adios>
+			<love>
+				<hate>
+				</hate>
+				<pride>
+				</pride>
+			</love>
+		</adios>
+	</name>
+	<love>
+		<hate>
+		</hate>
+	</love>
+	<love>
+		<hate>
+		</hate>
+	</love>
+</hello>
+<love><hate></hate></love>
+
+<hello>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+					<love>
+						<hate>
+						</hate>
+						<anger>
+						</anger>
+						<pride>
+						</pride>
+					</love>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+	</Robert>
+	<name>
+		<adios>
+			<love>
+				<hate>
+				</hate>
+				<pride>
+				</pride>
+			</love>
+		</adios>
+	</name>
+	<love>
+		<hate>
+		</hate>
+	</love>
+	<love>
+		<hate>
+			<yes>
+				<no>
+				</no>
+			</yes>
+		</hate>
+	</love>
+</hello>
+<yes><no></no></yes>
+
+<hello>
+	<yes>
+	</yes>
+	<adios>
+	</adios>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<name>
+		<adios>
+		</adios>
+	</name>
+	<Robert>
+		<is>
+			<name>
+				<goodbye>
+				</goodbye>
+				<adios>
+					<love>
+						<hate>
+						</hate>
+						<anger>
+						</anger>
+						<pride>
+						</pride>
+					</love>
+				</adios>
+			</name>
+		</is>
+		<yes>
+		</yes>
+	</Robert>
+	<Robert>
+		<yes>
+		</yes>
+	</Robert>
+	<name>
+		<adios>
+			<love>
+				<hate>
+				</hate>
+				<pride>
+				</pride>
+			</love>
+		</adios>
+	</name>
+	<love>
+		<hate>
+		</hate>
+	</love>
+	<Robert>
+		<hate>
+			<yes>
+				<no>
+				</no>
+			</yes>
+		</hate>
+	</Robert>
+</hello>
+<Robert><yes></yes></Robert>
+
+
+
+
