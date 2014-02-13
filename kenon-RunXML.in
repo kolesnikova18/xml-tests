@@ -1,0 +1,1105 @@
+<Army>
+	<Baby>
+		<Apple>
+			<Apple>
+				<Baby>
+				</Baby>
+				<Adult>
+				</Adult>
+				<Apple>
+				</Apple>
+				<Army>
+				</Army>
+			</Apple>
+			<Air>
+				<Army>
+				</Army>
+				<Apple>
+				</Apple>
+			</Air>
+		</Apple>
+		<Crystal>
+			<Apple>
+				<Crystal>
+				</Crystal>
+				<Apple>
+				</Apple>
+			</Apple>
+			<Air>
+				<Army>
+				</Army>
+				<Crystal>
+				</Crystal>
+			</Air>
+			<Army>
+				<Army>
+				</Army>
+				<Baby>
+				</Baby>
+				<Cup>
+				</Cup>
+				<Crystal>
+				</Crystal>
+			</Army>
+		</Crystal>
+	</Baby>
+	<Apple>
+		<Apple>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Army>
+				</Army>
+				<Adult>
+				</Adult>
+			</Baby>
+			<Apple>
+				<Army>
+				</Army>
+			</Apple>
+		</Apple>
+		<Cup>
+			<Adult>
+				<Army>
+				</Army>
+				<Cup>
+				</Cup>
+				<Air>
+				</Air>
+			</Adult>
+			<Army>
+			</Army>
+			<Crystal>
+				<Apple>
+				</Apple>
+			</Crystal>
+			<Banana>
+				<Air>
+				</Air>
+			</Banana>
+		</Cup>
+	</Apple>
+</Army>
+<Apple><Apple></Apple></Apple>
+
+<Crystal>
+	<Banana>
+		<Air>
+			<Air>
+				<Crystal>
+				</Crystal>
+				<Air>
+				</Air>
+			</Air>
+			<Adult>
+			</Adult>
+			<Banana>
+			</Banana>
+			<Cup>
+			</Cup>
+		</Air>
+	</Banana>
+</Crystal>
+<Banana></Banana>
+
+<Banana>
+	<Baby>
+		<Banana>
+			<Cup>
+				<Air>
+				</Air>
+				<Adult>
+				</Adult>
+				<Crystal>
+				</Crystal>
+				<Baby>
+				</Baby>
+			</Cup>
+			<Banana>
+				<Cup>
+				</Cup>
+				<Crystal>
+				</Crystal>
+			</Banana>
+			<Army>
+				<Adult>
+				</Adult>
+				<Crystal>
+				</Crystal>
+				<Baby>
+				</Baby>
+				<Air>
+				</Air>
+			</Army>
+			<Air>
+				<Baby>
+				</Baby>
+				<Army>
+				</Army>
+				<Adult>
+				</Adult>
+				<Apple>
+				</Apple>
+			</Air>
+		</Banana>
+		<Crystal>
+			<Army>
+				<Cup>
+				</Cup>
+			</Army>
+		</Crystal>
+		<Baby>
+			<Baby>
+				<Army>
+				</Army>
+				<Adult>
+				</Adult>
+			</Baby>
+			<Banana>
+				<Air>
+				</Air>
+			</Banana>
+			<Crystal>
+				<Baby>
+				</Baby>
+			</Crystal>
+		</Baby>
+	</Baby>
+</Banana>
+<Baby><Banana><Cup></Cup><Banana></Banana></Banana></Baby>
+
+<Cup>
+	<Army>
+		<Banana>
+			<Apple>
+			</Apple>
+			<Crystal>
+				<Apple>
+				</Apple>
+				<Army>
+				</Army>
+				<Cup>
+				</Cup>
+				<Baby>
+				</Baby>
+			</Crystal>
+			<Banana>
+			</Banana>
+		</Banana>
+		<Adult>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Army>
+				</Army>
+				<Banana>
+				</Banana>
+			</Baby>
+			<Crystal>
+				<Army>
+				</Army>
+				<Adult>
+				</Adult>
+				<Baby>
+				</Baby>
+				<Apple>
+				</Apple>
+			</Crystal>
+			<Banana>
+				<Baby>
+				</Baby>
+				<Cup>
+				</Cup>
+				<Air>
+				</Air>
+			</Banana>
+		</Adult>
+		<Baby>
+			<Army>
+				<Air>
+				</Air>
+				<Adult>
+				</Adult>
+				<Crystal>
+				</Crystal>
+			</Army>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Cup>
+				</Cup>
+			</Baby>
+		</Baby>
+	</Army>
+	<Cup>
+		<Banana>
+			<Apple>
+				<Air>
+				</Air>
+				<Baby>
+				</Baby>
+			</Apple>
+			<Air>
+				<Banana>
+				</Banana>
+				<Cup>
+				</Cup>
+				<Apple>
+				</Apple>
+			</Air>
+		</Banana>
+		<Crystal>
+			<Apple>
+			</Apple>
+			<Army>
+				<Crystal>
+				</Crystal>
+			</Army>
+			<Banana>
+			</Banana>
+			<Air>
+				<Air>
+				</Air>
+			</Air>
+		</Crystal>
+		<Cup>
+			<Air>
+				<Apple>
+				</Apple>
+			</Air>
+			<Adult>
+				<Army>
+				</Army>
+				<Crystal>
+				</Crystal>
+				<Adult>
+				</Adult>
+				<Air>
+				</Air>
+			</Adult>
+			<Crystal>
+				<Army>
+				</Army>
+			</Crystal>
+		</Cup>
+	</Cup>
+	<Apple>
+		<Apple>
+			<Apple>
+			</Apple>
+			<Banana>
+				<Cup>
+				</Cup>
+				<Army>
+				</Army>
+				<Adult>
+				</Adult>
+				<Banana>
+				</Banana>
+			</Banana>
+		</Apple>
+		<Air>
+			<Banana>
+			</Banana>
+			<Crystal>
+				<Crystal>
+				</Crystal>
+				<Baby>
+				</Baby>
+			</Crystal>
+			<Baby>
+				<Cup>
+				</Cup>
+				<Adult>
+				</Adult>
+				<Army>
+				</Army>
+				<Crystal>
+				</Crystal>
+			</Baby>
+		</Air>
+		<Crystal>
+			<Banana>
+				<Banana>
+				</Banana>
+			</Banana>
+			<Apple>
+				<Banana>
+				</Banana>
+				<Cup>
+				</Cup>
+				<Air>
+				</Air>
+			</Apple>
+			<Baby>
+				<Crystal>
+				</Crystal>
+			</Baby>
+			<Air>
+				<Adult>
+				</Adult>
+				<Apple>
+				</Apple>
+			</Air>
+		</Crystal>
+		<Banana>
+			<Cup>
+			</Cup>
+			<Baby>
+				<Air>
+				</Air>
+				<Apple>
+				</Apple>
+			</Baby>
+		</Banana>
+	</Apple>
+</Cup>
+<Banana><Cup></Cup><Baby><Air></Air></Baby></Banana>
+
+<Crystal>
+	<Army>
+		<Adult>
+			<Adult>
+				<Crystal>
+				</Crystal>
+				<Banana>
+				</Banana>
+				<Army>
+				</Army>
+			</Adult>
+		</Adult>
+		<Crystal>
+		</Crystal>
+		<Army>
+			<Adult>
+				<Baby>
+				</Baby>
+				<Army>
+				</Army>
+			</Adult>
+			<Army>
+				<Army>
+				</Army>
+				<Apple>
+				</Apple>
+			</Army>
+			<Air>
+				<Air>
+				</Air>
+				<Crystal>
+				</Crystal>
+				<Baby>
+				</Baby>
+				<Banana>
+				</Banana>
+			</Air>
+		</Army>
+		<Cup>
+			<Adult>
+				<Air>
+				</Air>
+			</Adult>
+			<Army>
+				<Apple>
+				</Apple>
+				<Baby>
+				</Baby>
+				<Cup>
+				</Cup>
+			</Army>
+			<Air>
+			</Air>
+		</Cup>
+	</Army>
+	<Air>
+		<Adult>
+			<Cup>
+				<Air>
+				</Air>
+			</Cup>
+			<Banana>
+				<Army>
+				</Army>
+				<Air>
+				</Air>
+				<Adult>
+				</Adult>
+				<Apple>
+				</Apple>
+			</Banana>
+			<Baby>
+				<Adult>
+				</Adult>
+				<Cup>
+				</Cup>
+				<Apple>
+				</Apple>
+			</Baby>
+		</Adult>
+		<Apple>
+			<Cup>
+				<Adult>
+				</Adult>
+				<Crystal>
+				</Crystal>
+			</Cup>
+		</Apple>
+		<Baby>
+		</Baby>
+	</Air>
+</Crystal>
+<Adult><Adult><Adult></Adult></Adult></Adult>
+
+<Banana>
+	<Apple>
+		<Adult>
+			<Baby>
+			</Baby>
+			<Adult>
+			</Adult>
+			<Apple>
+				<Baby>
+				</Baby>
+				<Apple>
+				</Apple>
+			</Apple>
+		</Adult>
+		<Air>
+		</Air>
+		<Baby>
+			<Crystal>
+				<Apple>
+				</Apple>
+				<Adult>
+				</Adult>
+				<Cup>
+				</Cup>
+			</Crystal>
+			<Adult>
+				<Apple>
+				</Apple>
+				<Banana>
+				</Banana>
+			</Adult>
+		</Baby>
+		<Army>
+			<Baby>
+				<Cup>
+				</Cup>
+				<Air>
+				</Air>
+				<Crystal>
+				</Crystal>
+			</Baby>
+			<Apple>
+				<Banana>
+				</Banana>
+				<Adult>
+				</Adult>
+			</Apple>
+			<Adult>
+				<Baby>
+				</Baby>
+				<Cup>
+				</Cup>
+				<Adult>
+				</Adult>
+				<Banana>
+				</Banana>
+			</Adult>
+		</Army>
+	</Apple>
+	<Adult>
+		<Adult>
+			<Apple>
+				<Army>
+				</Army>
+				<Baby>
+				</Baby>
+				<Crystal>
+				</Crystal>
+				<Adult>
+				</Adult>
+			</Apple>
+			<Crystal>
+				<Baby>
+				</Baby>
+				<Crystal>
+				</Crystal>
+				<Apple>
+				</Apple>
+				<Adult>
+				</Adult>
+			</Crystal>
+			<Adult>
+				<Cup>
+				</Cup>
+				<Baby>
+				</Baby>
+				<Banana>
+				</Banana>
+				<Crystal>
+				</Crystal>
+			</Adult>
+			<Army>
+				<Baby>
+				</Baby>
+			</Army>
+		</Adult>
+		<Air>
+		</Air>
+		<Baby>
+			<Crystal>
+				<Air>
+				</Air>
+			</Crystal>
+			<Banana>
+			</Banana>
+			<Army>
+			</Army>
+			<Baby>
+			</Baby>
+		</Baby>
+		<Cup>
+			<Cup>
+			</Cup>
+			<Army>
+				<Banana>
+				</Banana>
+			</Army>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Banana>
+				</Banana>
+			</Baby>
+		</Cup>
+	</Adult>
+</Banana>
+<Crystal><Apple></Apple><Baby></Baby></Crystal>
+
+<Crystal>
+	<Banana>
+		<Crystal>
+			<Adult>
+				<Army>
+				</Army>
+				<Banana>
+				</Banana>
+			</Adult>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Adult>
+				</Adult>
+				<Cup>
+				</Cup>
+				<Army>
+				</Army>
+			</Baby>
+			<Air>
+				<Apple>
+				</Apple>
+				<Crystal>
+				</Crystal>
+				<Adult>
+				</Adult>
+			</Air>
+		</Crystal>
+		<Air>
+			<Air>
+				<Army>
+				</Army>
+				<Air>
+				</Air>
+				<Adult>
+				</Adult>
+				<Baby>
+				</Baby>
+			</Air>
+		</Air>
+		<Cup>
+			<Banana>
+			</Banana>
+			<Baby>
+				<Apple>
+				</Apple>
+			</Baby>
+			<Air>
+				<Air>
+				</Air>
+				<Banana>
+				</Banana>
+				<Army>
+				</Army>
+			</Air>
+		</Cup>
+	</Banana>
+	<Air>
+		<Apple>
+			<Army>
+			</Army>
+			<Apple>
+				<Apple>
+				</Apple>
+				<Cup>
+				</Cup>
+				<Air>
+				</Air>
+				<Adult>
+				</Adult>
+			</Apple>
+		</Apple>
+		<Crystal>
+			<Army>
+			</Army>
+			<Crystal>
+				<Crystal>
+				</Crystal>
+				<Apple>
+				</Apple>
+				<Banana>
+				</Banana>
+			</Crystal>
+			<Baby>
+				<Cup>
+				</Cup>
+				<Crystal>
+				</Crystal>
+			</Baby>
+		</Crystal>
+		<Adult>
+			<Baby>
+				<Baby>
+				</Baby>
+				<Cup>
+				</Cup>
+				<Crystal>
+				</Crystal>
+			</Baby>
+		</Adult>
+	</Air>
+	<Cup>
+		<Apple>
+			<Banana>
+				<Baby>
+				</Baby>
+			</Banana>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Army>
+				</Army>
+			</Baby>
+			<Cup>
+			</Cup>
+		</Apple>
+		<Cup>
+		</Cup>
+		<Crystal>
+			<Crystal>
+			</Crystal>
+			<Air>
+				<Cup>
+				</Cup>
+			</Air>
+			<Cup>
+				<Cup>
+				</Cup>
+				<Army>
+				</Army>
+				<Baby>
+				</Baby>
+				<Banana>
+				</Banana>
+			</Cup>
+		</Crystal>
+		<Adult>
+			<Apple>
+				<Baby>
+				</Baby>
+				<Apple>
+				</Apple>
+				<Crystal>
+				</Crystal>
+				<Army>
+				</Army>
+			</Apple>
+			<Banana>
+				<Baby>
+				</Baby>
+			</Banana>
+			<Cup>
+			</Cup>
+			<Army>
+				<Army>
+				</Army>
+				<Baby>
+				</Baby>
+				<Banana>
+				</Banana>
+				<Crystal>
+				</Crystal>
+			</Army>
+		</Adult>
+	</Cup>
+</Crystal>
+<Crystal><Air></Air></Crystal>
+
+<Adult>
+	<Adult>
+	</Adult>
+	<Apple>
+		<Cup>
+		</Cup>
+		<Baby>
+			<Cup>
+				<Air>
+				</Air>
+				<Baby>
+				</Baby>
+			</Cup>
+			<Crystal>
+			</Crystal>
+			<Apple>
+			</Apple>
+			<Air>
+				<Adult>
+				</Adult>
+				<Baby>
+				</Baby>
+				<Crystal>
+				</Crystal>
+				<Army>
+				</Army>
+			</Air>
+		</Baby>
+		<Banana>
+			<Banana>
+				<Army>
+				</Army>
+			</Banana>
+			<Cup>
+			</Cup>
+		</Banana>
+	</Apple>
+	<Banana>
+		<Army>
+			<Banana>
+				<Air>
+				</Air>
+			</Banana>
+			<Air>
+				<Cup>
+				</Cup>
+				<Air>
+				</Air>
+				<Apple>
+				</Apple>
+				<Banana>
+				</Banana>
+			</Air>
+		</Army>
+	</Banana>
+	<Air>
+		<Cup>
+			<Apple>
+				<Adult>
+				</Adult>
+				<Crystal>
+				</Crystal>
+				<Banana>
+				</Banana>
+				<Cup>
+				</Cup>
+			</Apple>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Crystal>
+				</Crystal>
+			</Baby>
+			<Banana>
+				<Banana>
+				</Banana>
+				<Apple>
+				</Apple>
+			</Banana>
+		</Cup>
+	</Air>
+</Adult>
+<Banana><Apple></Apple><Banana></Banana></Banana>
+
+<Crystal>
+	<Air>
+		<Adult>
+		</Adult>
+	</Air>
+	<Baby>
+		<Air>
+			<Banana>
+			</Banana>
+			<Army>
+				<Baby>
+				</Baby>
+				<Banana>
+				</Banana>
+				<Army>
+				</Army>
+				<Adult>
+				</Adult>
+			</Army>
+			<Crystal>
+				<Apple>
+				</Apple>
+				<Air>
+				</Air>
+				<Baby>
+				</Baby>
+				<Banana>
+				</Banana>
+			</Crystal>
+			<Baby>
+				<Apple>
+				</Apple>
+				<Air>
+				</Air>
+			</Baby>
+		</Air>
+		<Baby>
+			<Baby>
+				<Cup>
+				</Cup>
+			</Baby>
+		</Baby>
+	</Baby>
+	<Adult>
+		<Cup>
+			<Army>
+				<Apple>
+				</Apple>
+				<Crystal>
+				</Crystal>
+				<Army>
+				</Army>
+			</Army>
+			<Apple>
+				<Adult>
+				</Adult>
+				<Baby>
+				</Baby>
+				<Banana>
+				</Banana>
+			</Apple>
+			<Cup>
+				<Crystal>
+				</Crystal>
+			</Cup>
+			<Air>
+				<Air>
+				</Air>
+				<Baby>
+				</Baby>
+			</Air>
+		</Cup>
+		<Crystal>
+			<Cup>
+			</Cup>
+			<Baby>
+				<Adult>
+				</Adult>
+				<Baby>
+				</Baby>
+				<Air>
+				</Air>
+				<Cup>
+				</Cup>
+			</Baby>
+			<Banana>
+				<Crystal>
+				</Crystal>
+				<Adult>
+				</Adult>
+				<Army>
+				</Army>
+			</Banana>
+		</Crystal>
+		<Air>
+			<Apple>
+				<Baby>
+				</Baby>
+				<Crystal>
+				</Crystal>
+				<Cup>
+				</Cup>
+			</Apple>
+			<Air>
+				<Cup>
+				</Cup>
+				<Adult>
+				</Adult>
+				<Baby>
+				</Baby>
+			</Air>
+		</Air>
+	</Adult>
+</Crystal>
+<Adult><Cup></Cup></Adult>
+
+<emu>
+<mez>
+<mer></mer>
+</mez>
+<mac>
+<mez>
+<mer></mer>
+</mez>
+</mac>
+</emu>
+<mez><mer></mer></mez>
+
+<Animals>
+<Dog>
+<Cat>
+<Fish>
+<Elephant></Elephant>
+<Tiger></Tiger>
+<Dog>
+<Lion></Lion>
+<Goat></Goat>
+<Cat></Cat>
+</Dog>
+<Mice>
+<Monkey>
+<Tiger></Tiger>
+<Dog>
+<Cat>
+<Fish>
+</Fish>
+</Cat>
+</Dog>
+</Monkey>
+</Mice>
+</Fish>
+</Cat>
+</Dog>
+</Animals>
+<Dog><Cat><Fish></Fish></Cat></Dog>
+
+<hello>
+<Robert>
+<name>
+<is>
+<Robert>
+<name>
+</name>
+</Robert>
+</is>
+<yes>
+</yes>
+</name>
+</Robert>
+</hello>
+<Robert><name></name></Robert>
+
+<A>
+	<B>
+		<A>
+			<B>
+			</B>
+		</A>
+	</B>
+</A>
+<A><B></B></A>
+
+<A>
+	<A>
+		<A>
+		</A>
+		<B>
+		</B>
+	</A>
+	<B>
+		<A>
+		</A>
+		<B>
+		</B>
+	</B>
+</A>
+<A></A>
+
+<A>
+	<A>
+		<A>
+		</A>
+		<B>
+		</B>
+	</A>
+	<B>
+		<A>
+		</A>
+		<B>
+		</B>
+	</B>
+</A>
+<B></B>
+
+<THU>
+	<Jelly>
+	</Jelly>
+	<Sleepy>
+		<Jelly>
+		</Jelly>
+	</Sleepy>
+	<Team>
+                <Jelly>
+                        <Jelly>
+                                <Funny>
+                                        <Chunky>
+                                        </Chunky>
+                                </Funny>
+                        </Jelly>
+                        <Sleepy>
+                                <Jelly>
+                                        <Funny>
+                                                <Funny>
+                                                        <Funny>
+                                                        </Funny>
+                                                        <Sleepy>
+                                                        </Sleepy>
+                                                </Funny>
+                                        </Funny>
+                                </Jelly>
+                        </Sleepy>
+                </Jelly>
+                <Chunky>
+                </Chunky>
+        </Team>
+</THU>
+<Funny><Funny></Funny></Funny>
+
+<object>
+<person>
+<florida>
+<head></head>
+</florida>
+</person>
+<place>
+<florida>
+<maimi></maimi>
+</florida>
+</place>
+<imagine>
+<florida>
+<head></head>
+<maimi></maimi>
+</florida>
+</imagine>
+</object>
+<object><place><florida /></place><person /><imagine>
+<florida>
+<head></head>
+<maimi></maimi>
+</florida>
+</imagine></object>
+
