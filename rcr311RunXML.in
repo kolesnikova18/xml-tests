@@ -1,0 +1,19 @@
+<wilde>
+    <elder>
+    </elder>
+    <stern>
+        <rewax>
+        </rewax>
+        <tuck>
+            <stern>
+                <rewax>
+                </rewax>
+            </stern>
+        </tuck>
+        <potato>
+            <rewax>
+            </rewax>
+        </potato>
+    </stern>
+</wilde>
+<stern><rewax></rewax></stern>
